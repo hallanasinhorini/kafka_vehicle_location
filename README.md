@@ -1,4 +1,5 @@
 #Confluent Kafka Demo
+
 Tech Stack: Python, Kafka, Docker, REST API, Confluent, node
 
 This implementation, will create a Python application that publishes vehicle location longitude-latitude data to a Kafka topic. Next, will use Node.js to start a web server that acts as a consumer for the messages received from the Kafka application.
